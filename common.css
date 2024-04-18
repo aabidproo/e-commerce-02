@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.arrange-left {
+    float: left;
+}
+
+.wid-25 {
+    width: 25%;
+}
+
+.wid-50 {
+    width: 50%;
+}
+
+.next-row {
+    clear: both;
+}
+
+.common-btn {
+    height: 50px;
+    min-width: 60px;
+    border: 1px solid #ddd;
+    border-radius: 0px;
+    text-align: center;
+    color: #d19c97;
+    background-color: white;
+    margin-right: 8px;
+}
+
+.common-btn span {
+    font-size: 16px;
+    font-weight: 500;
+}
