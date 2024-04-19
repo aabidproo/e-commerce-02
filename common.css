@@ -1,6 +1,8 @@
 * {
     margin: 0px;
     font-family: "Inter", sans-serif;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .wrapper {
@@ -18,6 +20,10 @@
 
 .wid-50 {
     width: 50%;
+}
+
+.wid-75{
+    width: 75%;
 }
 
 .next-row {
@@ -38,4 +44,9 @@
 .common-btn span {
     font-size: 16px;
     font-weight: 500;
+    color: #d19c97;
+}
+
+.common-btn span i {
+    color: #d19c97;
 }
