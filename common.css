@@ -26,6 +26,10 @@
     width: 75%;
 }
 
+.wid-33 {
+    width: 33.3%;
+}
+
 .next-row {
     clear: both;
 }
