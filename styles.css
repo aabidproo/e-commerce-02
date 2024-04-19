@@ -196,3 +196,27 @@
     cursor: pointer;
 }
  
+/* Features Section */
+.feature-point {
+    border: 1px solid #ddd;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    /* margin-right: 20px; */
+}
+
+.icon-text-wrap {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.feature-point i {
+    font-size: 30px;
+    color: #d19c97;
+}
+
+.feature-point span {
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: 700;
+}
